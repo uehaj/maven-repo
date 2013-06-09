@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>groovyx.ast.bytecode</groupId>
+  <artifactId>groovy-bytecode-ast</artifactId>
+  <version>0.2.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130609.042723</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130609042723</lastUpdated>
+  </versioning>
+</metadata>
