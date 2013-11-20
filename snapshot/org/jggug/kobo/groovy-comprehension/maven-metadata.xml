@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jggug.kobo</groupId>
+  <artifactId>groovy-comprehension</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <versions>
+      <version>0.1</version>
+    </versions>
+    <lastUpdated>20131119201022</lastUpdated>
+  </versioning>
+</metadata>
