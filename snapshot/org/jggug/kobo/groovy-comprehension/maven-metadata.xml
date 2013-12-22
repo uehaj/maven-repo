@@ -2,11 +2,11 @@
 <metadata>
   <groupId>org.jggug.kobo</groupId>
   <artifactId>groovy-comprehension</artifactId>
-  <version>0.2</version>
+  <version>0.3</version>
   <versioning>
     <versions>
-      <version>0.2</version>
+      <version>0.3</version>
     </versions>
-    <lastUpdated>20131201131753</lastUpdated>
+    <lastUpdated>20131222082611</lastUpdated>
   </versioning>
 </metadata>
